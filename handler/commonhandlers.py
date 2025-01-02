@@ -11,3 +11,8 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Operation cancelled.")
     return ConversationHandler.END
+
+class CommonHandler:
+    @staticmethod
+    async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
+        await update.message.reply_text("Hello! I'll send you a message shortly.")

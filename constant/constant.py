@@ -5,6 +5,9 @@ class Constants:
     class InlineKeyboardMarkup:
         START = "Start"
 
+        class OTHER:
+            TEST_MESSAGE = "Test message"
+
         class PAIR:
             VIEW = "Cặp niêm yết"
             LIST = "Danh sách cặp"
@@ -36,6 +39,12 @@ class KEYBOARD:
             ),
             InlineKeyboardButton(
                 Constants.InlineKeyboardMarkup.SIGNAL.VIEW,
+                callback_data=Constants.InlineKeyboardMarkup.SIGNAL.HANDLE_VIEW
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                Constants.InlineKeyboardMarkup.OTHER.TEST_MESSAGE,
                 callback_data=Constants.InlineKeyboardMarkup.SIGNAL.HANDLE_VIEW
             ),
         ]

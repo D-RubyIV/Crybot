@@ -39,10 +39,10 @@ class PairRecord(BaseModel):
 class SignalRecord(BaseModel):
     __tablename__ = "signal"
     price: Mapped[float] = mapped_column(Float, nullable=False)
-    isAlerted: Mapped[bool] = mapped_column(Boolean, nullable=False)
+    user_id: Mapped[int] = mapped_column(Integer, nullable=False)
 
     pair_id: Mapped[int] = mapped_column(ForeignKey("pair.id"), nullable=True)
     pair_record: Mapped["PairRecord"] = relationship("PairRecord", back_populates="signals", lazy="joined")
 
     def __repr__(self):
-        return f"SignalRecord(id={self.id}, price={self.price}, isAlerted={self.isAlerted})"
+        return f"SignalRecord(id={self.id}, price={self.price}, user_id={self.user_id})"
