@@ -21,9 +21,7 @@ WAITING_FOR_PAIR_CODE = 0
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-logging.getLogger("httpx").setLevel(logging.WARNING)
-
-logger = logging.getLogger("my_logger")
+logging.getLogger("my_logger").setLevel(logging.WARNING)
 
 if __name__ == "__main__":
     BaseModel.metadata.create_all(engine)

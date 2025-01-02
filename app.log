@@ -4059,3 +4059,31 @@
 2025-01-02 17:29:58,061 - my_logger - INFO - GET SESSION FROM : SignalRecord
 2025-01-02 17:29:58,061 - my_logger - INFO - ------------------ SESSION OPEN ------------------
 2025-01-02 17:29:58,061 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 18:34:43,396 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 18:34:43,396 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 18:34:43,397 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 18:34:43,400 - my_logger - INFO - Websocket is running ...
+2025-01-02 18:34:43,863 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 18:34:43,863 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 18:34:43,863 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 18:34:43,868 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 18:34:43,868 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 18:34:43,868 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 18:34:43,876 - my_logger - INFO - Synced successfully. Total: 1315
+2025-01-02 18:34:44,140 - my_logger - INFO - Bot running...
+2025-01-02 18:36:26,996 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 18:36:28,701 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 18:36:35,038 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 18:36:35,039 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 18:36:35,039 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 18:36:38,202 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 18:36:38,202 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 18:36:38,202 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 18:36:38,205 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 18:36:38,205 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 18:36:38,205 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 18:36:38,675 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 18:36:38,675 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 18:36:38,676 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 18:36:38,676 - my_logger - INFO - Websocket is running ...
+2025-01-02 18:36:38,881 - my_logger - INFO - Websocket stopped
