@@ -13,14 +13,16 @@ from config.state import START_ROUTES, WAITING_FOR_INPUT_PAIR_PRICE, WAITING_FOR
 from constant.constant import Constants, KEYBOARD
 from handler.pairhandlers import pair_service
 from handler.signalhandler import SignalHandler
+from service.signal.signalservice import SignalService
 
 #
 pair_code_received = ""
 # Callback data
 ONE, TWO, THREE, FOUR = range(4)
 
+signal_service = SignalService()
 
-async def start(update: Update) -> int:
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     user = update.message.from_user
     my_logger.info("User %s started the conversation.", user.first_name)
     reply_markup = InlineKeyboardMarkup(KEYBOARD.KEY_BOARD_START)
@@ -28,7 +30,7 @@ async def start(update: Update) -> int:
     return START_ROUTES
 
 
-async def start_over(update: Update) -> int:
+async def start_over(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     my_logger.info("START OVER RELOAD")
     query = update.callback_query
     await query.answer()
@@ -40,7 +42,7 @@ async def start_over(update: Update) -> int:
 # ====================== PAIR ====================== #
 # ====================== PAIR ====================== #
 # ====================== PAIR ====================== #
-async def onHandleViewPair(update: Update) -> int:
+async def onHandleViewPair(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     my_logger.info("HANDLE VIEW PAIR")
     query = update.callback_query
     await query.answer()
@@ -51,7 +53,7 @@ async def onHandleViewPair(update: Update) -> int:
     return START_ROUTES
 
 
-async def onHandleListPair(update: Update) -> int:
+async def onHandleListPair(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     query = update.callback_query
     await query.answer()
     keyBoard = [
@@ -73,7 +75,7 @@ async def onHandleListPair(update: Update) -> int:
     return START_ROUTES
 
 
-async def onHandleCheckPair(update: Update) -> int:
+async def onHandleCheckPair(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     query = update.callback_query
     await query.answer()
     keyboard = [
@@ -100,7 +102,7 @@ async def onHandleCheckPair(update: Update) -> int:
 # ====================== SIGNAL ====================== #
 # ====================== SIGNAL ====================== #
 # ====================== SIGNAL ====================== #
-async def onHandleViewSignal(update: Update) -> int:
+async def onHandleViewSignal(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     my_logger.info("HANDLE VIEW SIGNAL")
     query = update.callback_query
     await query.answer()
@@ -111,19 +113,16 @@ async def onHandleViewSignal(update: Update) -> int:
     return START_ROUTES
 
 
-async def onHandleListSignal(update: Update) -> int:
+async def onHandleListSignal(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     """Show new choice of buttons"""
     query = update.callback_query
     await query.answer()
-    keyboard = [
-        [
-            InlineKeyboardButton("2", callback_data=str(TWO)),
-            InlineKeyboardButton("3", callback_data=str(THREE)),
-        ]
-    ]
-    reply_markup = InlineKeyboardMarkup(keyboard)
+    list_signal = signal_service.find_all()
+
+
+    reply_markup = InlineKeyboardMarkup(KEYBOARD.KEY_BOARD_START)
     await query.edit_message_text(
-        text="D/s signal", reply_markup=reply_markup
+        text=str(list_signal), reply_markup=reply_markup
     )
     return START_ROUTES
 
@@ -132,7 +131,7 @@ async def onHandleListSignal(update: Update) -> int:
 # ====================== SIGNAL ====================== #
 # ====================== SIGNAL ====================== #
 
-async def end(update: Update) -> int:
+async def end(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     query = update.callback_query
     await query.answer()
     await query.edit_message_text(text="See you next time!")

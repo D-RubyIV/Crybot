@@ -55,7 +55,7 @@ class KEYBOARD:
     KEY_BOARD_SIGNAL_VIEW = [
         [
             InlineKeyboardButton(
-                Constants.InlineKeyboardMarkup.PAIR.LIST,
+                Constants.InlineKeyboardMarkup.SIGNAL.LIST,
                 callback_data=Constants.InlineKeyboardMarkup.SIGNAL.HANDLE_LIST
             ),
             InlineKeyboardButton(
