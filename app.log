@@ -369,3 +369,1092 @@
 2025-01-02 12:12:49,566 - my_logger - INFO - GET SESSION FROM : PairRecord
 2025-01-02 12:12:49,566 - my_logger - INFO - ------------------ SESSION OPEN ------------------
 2025-01-02 12:12:49,566 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:29:34,102 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:29:34,102 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:29:34,102 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:29:34,110 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:29:34,110 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:29:34,110 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:29:34,118 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:29:34,327 - my_logger - INFO - Bot running...
+2025-01-02 12:29:47,345 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:29:47,346 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:29:47,346 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:29:47,355 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:29:47,355 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:29:47,355 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:29:47,362 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:29:47,609 - my_logger - INFO - Bot running...
+2025-01-02 12:30:06,425 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:30:06,425 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:30:06,425 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:30:06,434 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:30:06,434 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:30:06,434 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:30:06,442 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:30:06,644 - my_logger - INFO - Bot running...
+2025-01-02 12:30:19,313 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:30:19,314 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:30:19,314 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:30:19,323 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:30:19,323 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:30:19,323 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:30:19,331 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:30:19,536 - my_logger - INFO - Bot running...
+2025-01-02 12:30:22,295 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:31:02,754 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:32:55,749 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:32:55,749 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:32:55,749 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:32:55,759 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:32:55,759 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:32:55,759 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:32:55,768 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:32:56,004 - my_logger - INFO - Bot running...
+2025-01-02 12:33:06,024 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:33:06,024 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:33:06,024 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:33:06,034 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:33:06,035 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:33:06,035 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:33:06,041 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:33:06,240 - my_logger - INFO - Bot running...
+2025-01-02 12:33:34,803 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:35:56,482 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:35:56,482 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:35:56,482 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:35:56,490 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:35:56,490 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:35:56,490 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:35:56,498 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:35:56,698 - my_logger - INFO - Bot running...
+2025-01-02 12:36:06,835 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:36:12,159 - my_logger - INFO - START OVER RELOAD
+2025-01-02 12:36:26,101 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:36:26,101 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:36:26,102 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:36:26,112 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:36:26,112 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:36:26,112 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:36:26,120 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:36:26,341 - my_logger - INFO - Bot running...
+2025-01-02 12:36:28,320 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:36:33,525 - my_logger - INFO - START OVER RELOAD
+2025-01-02 12:36:47,383 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:36:47,383 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:36:47,383 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:36:47,391 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:36:47,391 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:36:47,391 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:36:47,398 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:36:47,601 - my_logger - INFO - Bot running...
+2025-01-02 12:36:50,284 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:36:54,895 - my_logger - INFO - START OVER RELOAD
+2025-01-02 12:42:49,423 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:42:49,423 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:42:49,423 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:42:49,431 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:42:49,431 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:42:49,431 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:42:49,440 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:42:49,657 - my_logger - INFO - Bot running...
+2025-01-02 12:42:52,647 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:43:03,764 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:43:44,929 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:43:44,929 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:43:44,929 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:43:44,938 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:43:44,938 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:43:44,938 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:43:44,945 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:43:45,146 - my_logger - INFO - Bot running...
+2025-01-02 12:43:54,082 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:43:54,082 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:43:54,082 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:43:54,090 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:43:54,090 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:43:54,090 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:43:54,097 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:43:54,310 - my_logger - INFO - Bot running...
+2025-01-02 12:43:57,346 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:44:34,525 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:45:20,511 - my_logger - INFO - START OVER RELOAD
+2025-01-02 12:45:39,257 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:50:26,375 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:50:31,419 - my_logger - INFO - START OVER RELOAD
+2025-01-02 12:50:57,991 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:51:14,115 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:54:34,854 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:54:34,854 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:54:34,855 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:54:34,869 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:54:34,869 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:54:34,869 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:54:34,877 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:54:35,140 - my_logger - INFO - Bot running...
+2025-01-02 12:54:36,582 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:56:05,612 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:56:05,613 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:56:05,613 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:56:05,622 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:56:05,622 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:56:05,622 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:56:05,631 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:56:05,889 - my_logger - INFO - Bot running...
+2025-01-02 12:56:22,911 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 12:56:33,876 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:56:33,876 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:56:33,876 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:56:33,886 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:56:33,887 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:56:33,887 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:56:33,896 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:56:34,159 - my_logger - INFO - Bot running...
+2025-01-02 12:56:37,263 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:01:17,191 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:01:17,192 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:01:17,192 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:01:17,204 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:01:17,204 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:01:17,204 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:01:17,215 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:01:17,564 - my_logger - INFO - Bot running...
+2025-01-02 13:01:20,029 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:01:25,422 - my_logger - INFO - START OVER RELOAD
+2025-01-02 13:02:50,686 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:02:50,686 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:02:50,687 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:02:50,697 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:02:50,697 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:02:50,697 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:02:50,708 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:02:51,000 - my_logger - INFO - Bot running...
+2025-01-02 13:02:53,558 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:07:47,124 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:07:47,124 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:07:47,125 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:07:47,133 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:07:47,133 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:07:47,133 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:07:47,142 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:07:47,354 - my_logger - INFO - Bot running...
+2025-01-02 13:07:50,416 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:07:56,786 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:09:03,068 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:09:03,069 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:09:03,069 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:09:03,076 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:09:03,077 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:09:03,077 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:09:03,084 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:09:03,341 - my_logger - INFO - Bot running...
+2025-01-02 13:09:06,007 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:09:53,116 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:09:53,116 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:09:53,116 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:09:53,125 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:09:53,125 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:09:53,125 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:09:53,133 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:09:53,355 - my_logger - INFO - Bot running...
+2025-01-02 13:09:57,105 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:10:20,965 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:10:20,966 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:10:20,966 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:10:20,978 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:10:20,978 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:10:20,978 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:10:20,994 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:10:21,316 - my_logger - INFO - Bot running...
+2025-01-02 13:10:23,420 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:10:29,042 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:12:15,336 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:13:59,731 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:13:59,731 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:13:59,731 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:13:59,741 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:13:59,741 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:13:59,741 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:13:59,750 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:13:59,979 - my_logger - INFO - Bot running...
+2025-01-02 13:14:02,237 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:14:59,143 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:20:48,395 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:22:09,980 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:22:19,720 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:23:12,874 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:23:39,539 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:24:25,804 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:24:25,805 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:24:25,805 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:24:25,814 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:24:25,814 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:24:25,814 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:24:25,822 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:24:26,041 - my_logger - INFO - Bot running...
+2025-01-02 13:25:23,522 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:25:29,291 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:25:44,951 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:25:44,952 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:25:44,953 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:25:44,971 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:25:44,971 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:25:44,973 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:25:44,989 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:25:45,298 - my_logger - INFO - Bot running...
+2025-01-02 13:25:49,615 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:26:56,081 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:26:56,082 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:26:56,082 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:26:56,092 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:26:56,092 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:26:56,092 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:26:56,100 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:26:56,325 - my_logger - INFO - Bot running...
+2025-01-02 13:27:03,538 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:27:19,519 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:29:43,519 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:30:11,543 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:30:42,441 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:30:42,441 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:30:42,442 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:30:42,450 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:30:42,450 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:30:42,450 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:30:42,458 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:30:42,673 - my_logger - INFO - Bot running...
+2025-01-02 13:30:45,978 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:30:53,166 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:31:40,455 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:31:44,265 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:31:44,265 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:31:44,265 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:31:58,228 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:33:42,374 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:34:35,236 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:34:35,236 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:34:35,236 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:34:35,249 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:34:35,250 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:34:35,250 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:34:35,262 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:34:35,486 - my_logger - INFO - Bot running...
+2025-01-02 13:34:38,309 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:34:43,966 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:36:11,018 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:36:11,018 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:36:11,018 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:36:11,028 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:36:11,028 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:36:11,028 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:36:11,035 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:36:11,258 - my_logger - INFO - Bot running...
+2025-01-02 13:36:48,927 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:36:54,898 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:36:58,009 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:36:58,009 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:36:58,009 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:37:22,220 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:37:22,220 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:37:22,220 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:37:22,229 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:37:22,229 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:37:22,230 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:37:22,238 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:37:22,475 - my_logger - INFO - Bot running...
+2025-01-02 13:37:24,980 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:37:28,453 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:37:28,454 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:37:28,454 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:37:33,430 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:37:37,062 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:37:37,062 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:37:37,062 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:42:37,065 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:57:27,318 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:57:27,318 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:57:27,318 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:57:27,328 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 13:57:27,328 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 13:57:27,328 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 13:57:27,335 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 13:57:27,562 - my_logger - INFO - Bot running...
+2025-01-02 13:57:30,027 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:57:46,985 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 13:59:38,140 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:00:47,912 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:00:47,912 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:00:47,912 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:00:47,928 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:00:47,928 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:00:47,928 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:00:47,936 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:00:48,153 - my_logger - INFO - Bot running...
+2025-01-02 14:00:51,060 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:01:39,474 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:01:39,474 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:01:39,475 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:01:39,483 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:01:39,483 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:01:39,483 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:01:39,490 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:01:39,709 - my_logger - INFO - Bot running...
+2025-01-02 14:01:43,782 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:02:34,850 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:02:34,850 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:02:34,850 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:02:34,859 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:02:34,859 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:02:34,859 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:02:34,866 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:02:35,080 - my_logger - INFO - Bot running...
+2025-01-02 14:02:44,245 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:03:17,865 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:03:17,865 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:03:17,866 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:03:17,875 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:03:17,875 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:03:17,875 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:03:17,883 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:03:18,124 - my_logger - INFO - Bot running...
+2025-01-02 14:03:20,346 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:03:21,566 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 14:03:24,362 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:03:24,362 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:03:24,362 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:04:47,060 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:04:48,658 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 14:04:55,013 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:04:55,013 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:04:55,014 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:04:55,023 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:04:55,024 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:04:55,024 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:04:55,032 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:04:55,282 - my_logger - INFO - Bot running...
+2025-01-02 14:04:59,923 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:06:46,072 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:06:46,072 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:06:46,072 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:06:46,087 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:06:46,087 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:06:46,087 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:06:46,095 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:06:46,338 - my_logger - INFO - Bot running...
+2025-01-02 14:06:47,930 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:06:56,831 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:06:56,831 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:06:56,832 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:06:56,840 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:06:56,841 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:06:56,841 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:06:56,850 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:06:57,095 - my_logger - INFO - Bot running...
+2025-01-02 14:06:58,979 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:07:00,220 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:07:45,837 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:07:45,837 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:07:45,837 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:07:45,847 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:07:45,847 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:07:45,847 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:07:45,856 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:07:46,091 - my_logger - INFO - Bot running...
+2025-01-02 14:13:19,330 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:13:20,951 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 14:13:23,702 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:13:23,703 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:13:23,703 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:13:36,464 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:13:38,176 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 14:13:40,302 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:13:40,302 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:13:40,302 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:13:45,216 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:13:46,393 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:15:09,422 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:15:11,234 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:15:16,843 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:15:16,844 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:15:16,844 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:15:16,852 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:15:16,852 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:15:16,852 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:15:16,860 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:15:17,126 - my_logger - INFO - Bot running...
+2025-01-02 14:15:25,803 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:15:25,803 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:15:25,804 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:15:25,812 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:15:25,813 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:15:25,813 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:15:25,821 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:15:26,038 - my_logger - INFO - Bot running...
+2025-01-02 14:15:32,411 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:15:34,225 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:19:10,935 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:19:10,935 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:19:10,936 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:19:10,945 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:19:10,945 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:19:10,945 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:19:10,953 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:19:11,189 - my_logger - INFO - Bot running...
+2025-01-02 14:19:14,597 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:19:15,799 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:20:51,944 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:20:51,945 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:20:51,945 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:20:51,953 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:20:51,953 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:20:51,953 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:20:51,960 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:20:52,178 - my_logger - INFO - Bot running...
+2025-01-02 14:20:55,294 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:20:56,531 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:21:30,820 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:21:32,963 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 14:21:35,090 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:21:35,090 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:21:35,090 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:22:20,303 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:22:20,304 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:22:20,304 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:22:20,313 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:22:20,313 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:22:20,313 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:22:20,320 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:22:20,521 - my_logger - INFO - Bot running...
+2025-01-02 14:22:24,651 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:22:25,914 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:23:13,597 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:23:13,597 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:23:13,598 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:23:13,606 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:23:13,606 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:23:13,606 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:23:13,614 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:23:13,814 - my_logger - INFO - Bot running...
+2025-01-02 14:23:19,853 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:23:21,590 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:23:43,491 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:23:43,491 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:23:43,492 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:23:43,500 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:23:43,502 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:23:43,502 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:23:43,509 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:23:43,768 - my_logger - INFO - Bot running...
+2025-01-02 14:23:46,513 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:24:16,247 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:24:16,248 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:24:16,248 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:24:16,255 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:24:16,255 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:24:16,255 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:24:16,264 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:24:16,468 - my_logger - INFO - Bot running...
+2025-01-02 14:24:18,435 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:24:19,616 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:25:45,969 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:25:47,574 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:28:22,527 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:28:22,527 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:28:22,527 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:28:22,541 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:28:22,541 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:28:22,541 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:28:22,548 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:28:22,754 - my_logger - INFO - Bot running...
+2025-01-02 14:28:28,233 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:28:29,583 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:28:50,931 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:28:50,931 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:28:50,932 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:28:50,950 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:28:50,950 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:28:50,950 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:28:50,970 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:28:54,654 - my_logger - INFO - Bot running...
+2025-01-02 14:28:56,245 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:28:56,659 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:28:57,064 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:29:00,780 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:30:05,403 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:30:05,404 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:30:05,404 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:30:05,418 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:30:05,418 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:30:05,418 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:30:05,439 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:30:06,111 - my_logger - INFO - Bot running...
+2025-01-02 14:30:07,594 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:30:07,989 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:30:09,634 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:31:58,213 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:31:58,213 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:31:58,215 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:31:58,228 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:31:58,228 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:31:58,228 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:31:58,236 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:31:58,612 - my_logger - INFO - Bot running...
+2025-01-02 14:35:27,245 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:35:27,246 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:35:27,246 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:35:27,256 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:35:27,257 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:35:27,257 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:35:27,264 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:35:27,469 - my_logger - INFO - Bot running...
+2025-01-02 14:35:30,528 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:35:32,096 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:36:40,570 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:36:40,570 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:36:40,570 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:36:40,578 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:36:40,578 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:36:40,579 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:36:40,586 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:36:40,869 - my_logger - INFO - Bot running...
+2025-01-02 14:36:48,725 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:36:48,725 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:36:48,727 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:36:48,745 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:36:48,746 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:36:48,746 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:36:48,775 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:36:49,446 - my_logger - INFO - Bot running...
+2025-01-02 14:36:52,857 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:36:54,069 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:38:27,387 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:38:27,388 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:38:27,388 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:38:27,400 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:38:27,401 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:38:27,401 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:38:27,421 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:38:27,981 - my_logger - INFO - Bot running...
+2025-01-02 14:39:02,025 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:39:02,025 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:39:02,026 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:39:02,038 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:39:02,038 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:39:02,038 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:39:02,058 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:39:02,615 - my_logger - INFO - Bot running...
+2025-01-02 14:39:05,499 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:39:06,753 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:40:02,535 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:40:02,535 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:40:02,536 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:40:02,549 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:40:02,549 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:40:02,549 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:40:02,572 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:40:03,137 - my_logger - INFO - Bot running...
+2025-01-02 14:40:06,678 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:40:06,679 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:40:06,679 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:40:06,688 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:40:06,688 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:40:06,688 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:40:06,696 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:40:06,935 - my_logger - INFO - Bot running...
+2025-01-02 14:40:50,344 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:41:23,105 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:41:23,106 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:41:23,106 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:41:23,116 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:41:23,116 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:41:23,116 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:41:23,125 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:41:23,387 - my_logger - INFO - Bot running...
+2025-01-02 14:42:17,060 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:42:17,061 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:42:17,061 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:42:17,070 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:42:17,070 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:42:17,070 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:42:17,077 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:42:17,302 - my_logger - INFO - Bot running...
+2025-01-02 14:43:34,287 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:43:34,288 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:43:34,288 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:43:34,296 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:43:34,296 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:43:34,296 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:43:34,303 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:43:34,503 - my_logger - INFO - Bot running...
+2025-01-02 14:43:37,576 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:43:38,825 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:44:15,865 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:44:15,866 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:44:15,866 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:44:15,874 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:44:15,875 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:44:15,875 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:44:15,882 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:44:16,100 - my_logger - INFO - Bot running...
+2025-01-02 14:44:19,021 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:44:20,587 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:44:49,531 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:44:49,531 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:44:49,531 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:44:49,539 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:44:49,539 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:44:49,539 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:44:49,548 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:44:49,761 - my_logger - INFO - Bot running...
+2025-01-02 14:45:08,626 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:45:08,626 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:45:08,626 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:45:08,636 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:45:08,636 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:45:08,636 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:45:08,644 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:45:08,858 - my_logger - INFO - Bot running...
+2025-01-02 14:45:15,281 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:45:17,007 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:46:49,633 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:46:57,492 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:47:14,286 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:47:16,385 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 14:47:18,249 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:47:18,249 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:47:18,249 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:48:14,711 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:48:16,576 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:49:09,631 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:49:11,701 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:49:25,690 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:49:27,827 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:50:07,796 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:50:09,457 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:50:18,616 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:50:20,626 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:50:26,822 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:50:28,126 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:50:32,793 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:50:34,453 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 14:50:36,498 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:50:36,498 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:50:36,498 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:50:41,882 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:51:10,964 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:51:10,964 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:51:10,965 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:51:10,973 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:51:10,973 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:51:10,973 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:51:10,981 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:51:11,195 - my_logger - INFO - Bot running...
+2025-01-02 14:51:14,066 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:51:15,664 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 14:51:18,259 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:51:18,259 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:51:18,259 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:51:38,248 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:51:38,248 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:51:38,248 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:51:38,257 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:51:38,257 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:51:38,257 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:51:38,265 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:51:38,456 - my_logger - INFO - Bot running...
+2025-01-02 14:51:40,994 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:51:42,260 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 14:51:44,932 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:51:44,932 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:51:44,932 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:51:46,660 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:53:10,537 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:53:10,537 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:53:10,538 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:53:10,546 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:53:10,546 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:53:10,546 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:53:10,554 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:53:10,760 - my_logger - INFO - Bot running...
+2025-01-02 14:53:15,634 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:53:18,499 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:54:08,832 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:54:08,832 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:54:08,832 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:54:08,840 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:54:08,841 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:54:08,841 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:54:08,848 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:54:09,043 - my_logger - INFO - Bot running...
+2025-01-02 14:54:15,105 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:54:17,000 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:54:30,883 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:54:30,883 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:54:30,884 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:54:30,892 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:54:30,892 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:54:30,892 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:54:30,901 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:54:31,101 - my_logger - INFO - Bot running...
+2025-01-02 14:54:34,277 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:54:35,541 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:54:52,876 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:54:52,877 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:54:52,877 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:54:52,886 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:54:52,886 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:54:52,886 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:54:52,894 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:54:53,099 - my_logger - INFO - Bot running...
+2025-01-02 14:54:58,115 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:54:59,571 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:55:10,307 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 14:55:12,021 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 14:56:03,415 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:56:03,415 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:56:03,415 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:56:03,425 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:56:03,425 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:56:03,425 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:56:03,434 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:56:03,675 - my_logger - INFO - Bot running...
+2025-01-02 14:56:18,023 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:56:18,023 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:56:18,023 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:56:18,033 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:56:18,033 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:56:18,033 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:56:18,042 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:56:18,256 - my_logger - INFO - Bot running...
+2025-01-02 14:57:40,022 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:57:40,022 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:57:40,022 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:57:40,030 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:57:40,030 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:57:40,030 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:57:40,038 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:57:40,235 - my_logger - INFO - Bot running...
+2025-01-02 14:58:02,198 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:58:02,199 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:58:02,199 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:58:02,207 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:58:02,207 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:58:02,207 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:58:02,215 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:58:02,507 - my_logger - INFO - Bot running...
+2025-01-02 14:59:55,360 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:59:55,360 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:59:55,360 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:59:55,370 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 14:59:55,371 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 14:59:55,371 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 14:59:55,381 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 14:59:55,601 - my_logger - INFO - Bot running...
+2025-01-02 15:00:31,183 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:00:31,183 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:00:31,183 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:00:31,196 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:00:31,196 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:00:31,196 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:00:31,206 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:00:31,454 - my_logger - INFO - Bot running...
+2025-01-02 15:00:33,375 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:00:35,054 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:01:14,035 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:01:14,036 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:01:14,036 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:01:14,046 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:01:14,046 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:01:14,046 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:01:14,054 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:01:14,298 - my_logger - INFO - Bot running...
+2025-01-02 15:01:19,045 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:01:20,256 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:01:28,025 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:01:29,504 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:01:41,767 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:01:41,767 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:01:41,767 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:04:15,402 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:04:15,402 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:04:15,402 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:04:15,411 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:04:15,411 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:04:15,411 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:04:15,419 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:04:15,650 - my_logger - INFO - Bot running...
+2025-01-02 15:04:18,743 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:04:20,060 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:04:29,841 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:04:31,933 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:04:47,658 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:04:47,658 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:04:47,658 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:04:47,661 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 15:04:47,661 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:04:47,661 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:29:07,048 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:29:07,049 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:29:07,049 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:29:07,064 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:29:07,064 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:29:07,065 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:29:07,074 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:29:07,397 - my_logger - INFO - Bot running...
+2025-01-02 15:29:08,889 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:29:09,311 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:29:09,706 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:29:10,153 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:29:10,540 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:29:12,514 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:29:13,757 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:29:18,868 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:29:20,079 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:29:34,539 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:29:34,539 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:29:34,540 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:29:34,543 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 15:29:34,543 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:29:34,543 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:35:18,260 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:35:18,261 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:35:18,261 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:35:18,269 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:35:18,269 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:35:18,269 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:35:18,276 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:35:18,478 - my_logger - INFO - Bot running...
+2025-01-02 15:35:22,859 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:35:24,257 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:35:41,355 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:35:41,355 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:35:41,356 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:35:41,361 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 15:35:41,361 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:35:41,361 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:36:20,824 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:36:20,825 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:36:20,825 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:36:20,833 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:36:20,833 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:36:20,833 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:36:20,843 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:36:21,085 - my_logger - INFO - Bot running...
+2025-01-02 15:36:28,909 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:36:31,005 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:36:42,631 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:36:42,631 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:36:42,631 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:36:42,633 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 15:36:42,633 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:36:42,633 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:45:56,267 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:45:56,267 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:45:56,268 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:45:56,277 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:45:56,277 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:45:56,277 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:45:56,285 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:45:56,486 - my_logger - INFO - Bot running...
+2025-01-02 15:46:05,210 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:46:07,039 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:46:30,058 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:46:30,058 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:46:30,058 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:46:30,060 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 15:46:30,060 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:46:30,060 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:49:26,963 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:49:26,964 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:49:26,964 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:49:26,972 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:49:26,972 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:49:26,972 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:49:26,983 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:49:27,330 - my_logger - INFO - Bot running...
+2025-01-02 15:49:30,576 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:49:31,818 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:50:43,293 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:50:43,293 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:50:43,293 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:50:43,302 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:50:43,303 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:50:43,303 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:50:43,310 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:50:43,549 - my_logger - INFO - Bot running...
+2025-01-02 15:50:46,125 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:50:47,410 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:50:51,224 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:50:51,224 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:50:51,224 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:50:53,323 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:50:53,323 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:50:53,323 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:50:56,513 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:50:56,514 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:50:56,514 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:51:48,162 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:51:48,162 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:51:48,162 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:51:48,171 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:51:48,172 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:51:48,172 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:51:48,181 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:51:48,395 - my_logger - INFO - Bot running...
+2025-01-02 15:51:51,259 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:51:52,756 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:51:58,658 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:51:58,659 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:51:58,659 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:52:03,065 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:52:03,065 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:52:03,065 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:52:07,740 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:52:07,740 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:52:07,740 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:52:07,743 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 15:52:07,744 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:52:07,744 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:53:40,288 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:54:26,560 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 15:54:29,320 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:54:29,320 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:54:29,320 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:54:32,815 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:54:37,126 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:54:38,599 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 15:54:41,704 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:54:41,705 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:54:41,705 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:56:23,893 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:56:23,894 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:56:23,894 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:56:23,903 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:56:23,903 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:56:23,903 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:56:23,911 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:56:24,143 - my_logger - INFO - Bot running...
+2025-01-02 15:56:28,061 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:56:29,280 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:56:32,877 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:56:34,150 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 15:56:36,379 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:56:36,379 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:56:36,379 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:56:50,829 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:56:55,205 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:56:55,205 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:56:55,206 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:56:55,213 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:56:55,213 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:56:55,213 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:56:55,220 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:56:55,415 - my_logger - INFO - Bot running...
+2025-01-02 15:58:24,019 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:58:25,504 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 15:58:29,397 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:58:29,397 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:58:29,397 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:58:31,725 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:58:32,928 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 15:58:37,502 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:58:37,502 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:58:37,503 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:58:46,600 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:58:46,600 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:58:46,600 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:58:46,607 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:58:46,607 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:58:46,607 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:58:46,615 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:58:46,819 - my_logger - INFO - Bot running...
+2025-01-02 15:58:50,768 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:58:53,404 - my_logger - INFO - HANDLE VIEW PAIR
+2025-01-02 15:59:16,298 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:59:16,299 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:59:16,299 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:59:18,652 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:59:25,360 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:59:25,361 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:59:25,361 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:59:25,369 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:59:25,369 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:59:25,369 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:59:25,377 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 15:59:25,577 - my_logger - INFO - Bot running...
+2025-01-02 15:59:32,426 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 15:59:34,044 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 15:59:44,146 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:59:44,146 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:59:44,146 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:59:49,729 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 15:59:49,730 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:59:49,730 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 15:59:49,732 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 15:59:49,733 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 15:59:49,733 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:03:50,864 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:03:50,865 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:03:50,865 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:03:50,873 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:03:50,873 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:03:50,873 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:03:50,880 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 16:03:51,088 - my_logger - INFO - Bot running...
+2025-01-02 16:04:45,148 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:04:45,148 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:04:45,148 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:04:45,156 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:04:45,156 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:04:45,156 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:04:45,166 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 16:04:45,379 - my_logger - INFO - Bot running...
+2025-01-02 16:04:50,257 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 16:04:51,740 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 16:04:58,364 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:04:58,364 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:04:58,365 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:05:01,524 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:05:01,524 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:05:01,524 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:05:04,953 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:05:04,953 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:05:04,955 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:05:04,957 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 16:05:04,957 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:05:04,957 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:05:27,288 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:05:27,288 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:05:27,288 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:05:27,296 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:05:27,296 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:05:27,296 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:05:27,303 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 16:05:27,497 - my_logger - INFO - Bot running...
+2025-01-02 16:05:45,339 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:05:45,340 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:05:45,340 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:05:45,348 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:05:45,348 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:05:45,348 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:05:45,355 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 16:05:45,592 - my_logger - INFO - Bot running...
+2025-01-02 16:05:58,362 - my_logger - INFO - User PHAH started the conversation.
+2025-01-02 16:06:01,299 - my_logger - INFO - HANDLE VIEW SIGNAL
+2025-01-02 16:06:08,651 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:06:08,651 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:06:08,651 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:06:11,692 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:06:11,692 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:06:11,692 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:06:11,695 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 16:06:11,695 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:06:11,695 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:07:00,266 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:07:00,267 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:07:00,267 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:07:00,287 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 16:07:00,288 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 16:07:00,288 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 16:07:00,303 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 16:07:00,614 - my_logger - INFO - Bot running...
