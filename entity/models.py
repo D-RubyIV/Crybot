@@ -25,25 +25,24 @@ class BaseModel(DeclarativeBase):
 
 class PairRecord(BaseModel):
     __tablename__ = "pair"
-    code: Mapped[str] = mapped_column(String(20), nullable=False)
-
-    reports: Mapped[list["ReportRecord"]] = relationship("ReportRecord", back_populates="pair_record",
-                                                         cascade="all, delete")
+    code: Mapped[str] = mapped_column(String(20), nullable=False, unique=True)
+    signals: Mapped[list["SignalRecord"]] = relationship(
+        "SignalRecord",
+        back_populates="pair_record",
+        cascade="all, delete"
+    )
 
     def __repr__(self):
         return f"PairRecord(id={self.id}, code={self.code})"
 
 
-class ReportRecord(BaseModel):
-    __tablename__ = "report"
-    timestamp: Mapped[float] = mapped_column(Float, nullable=False)
-    open: Mapped[float] = mapped_column(Float, nullable=False)
-    high: Mapped[float] = mapped_column(Float, nullable=False)
-    low: Mapped[float] = mapped_column(Float, nullable=False)
-    close: Mapped[float] = mapped_column(Float, nullable=False)
+class SignalRecord(BaseModel):
+    __tablename__ = "signal"
+    price: Mapped[float] = mapped_column(Float, nullable=False)
+    isAlerted: Mapped[bool] = mapped_column(Boolean, nullable=False)
 
     pair_id: Mapped[int] = mapped_column(ForeignKey("pair.id"), nullable=True)
-    pair_record: Mapped["PairRecord"] = relationship("PairRecord", back_populates="reports", lazy="joined")
+    pair_record: Mapped["PairRecord"] = relationship("PairRecord", back_populates="signals", lazy="joined")
 
     def __repr__(self):
-        return f"ReportRecord(id={self.id}, timestamp={self.timestamp}, rsi={self.rsi}, rsi_rating={self.rsi_rating}, time_frame={self.time_frame})"
+        return f"SignalRecord(id={self.id}, price={self.price}, isAlerted={self.isAlerted})"

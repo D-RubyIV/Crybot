@@ -1,100 +1,33 @@
 import os
-from typing import List
-from telegram import Update
-from telegram.ext import (
-    Application,
-    CommandHandler,
-    ContextTypes,
-    ConversationHandler,
-    MessageHandler,
-    filters,
-)
+from telegram.ext import Application, CommandHandler, ConversationHandler, MessageHandler, filters
 from dotenv import load_dotenv
-from config.achemy import engine
 from config.logger import my_logger
-from entity.models import BaseModel, PairRecord
-from service.pair.pairservice import PairService
+from service.binance.binanceservice import get_binance_symbol_pairs
+from setup.setup import setup_services
+from handler.commonhandlers import start, help_command, cancel
+from handler.pairhandlers import list_pairs, request_pair_code, receive_pair_code
 
-# CONFIG #
 load_dotenv()
 TOKEN = os.getenv("TOKEN")
-BOT_USERNAME = os.getenv("BOT_USERNAME")
-
-pair_service = PairService()
-
+pair_service, signal_service = setup_services()
 WAITING_FOR_PAIR_CODE = 0
 
-is_pair_code_received = False
-
-async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(
-        "Hello! Type /help to see how can i help you?"
-    )
-
-async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(
-        "Here are the commands you can use:\n\n"
-        "/start - Start the bot\n"
-        "/help - Show this help message\n"
-        "/list - List of the files in the folder\n"
-        "/add - Add a new pair to the database\n"
-    )
-
-async def handle_reply_list_pair(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    list_pair: List[PairRecord] = pair_service.find_all()
-    if not list_pair:
-        await update.message.reply_text("No pairs found.")
-        return
-
-    pair_list = '\n'.join([pair.code for pair in list_pair])
-    await update.message.reply_text(pair_list)
-
-async def add_pair_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    global is_pair_code_received
-    is_pair_code_received = False
-    await update.message.reply_text("Please send me the pair code. /cancel to cancel")
-    return WAITING_FOR_PAIR_CODE
-
-async def receive_pair_code(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    global is_pair_code_received
-    if not is_pair_code_received:
-        pair_code = update.message.text
-        addNewPair(pair_code)
-        is_pair_code_received = True
-        await update.message.reply_text(f"Pair '{pair_code}' has been added.")
-    return ConversationHandler.END
-
-async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    global is_pair_code_received
-    is_pair_code_received = False
-    await update.message.reply_text("Operation cancelled.")
-    return ConversationHandler.END
-
-def addNewPair(code: str):
-    pair = PairRecord(code=code)
-    pair_service.add_entity(pair)
-
-async def error(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    my_logger.error(f"Error : {context.error}")
-
 if __name__ == "__main__":
-    BaseModel.metadata.create_all(engine)
+    pair_service.sync_pairs_to_db(get_binance_symbol_pairs())
+    my_logger.info("Synced successfully. Total: %s", len(pair_service.find_all()))
 
-    app = Application.builder().token(TOKEN).connect_timeout(60).pool_timeout(60).read_timeout(60).write_timeout(
-        60).get_updates_read_timeout(10).build()
+    app = Application.builder().token(TOKEN).build()
 
-    add_pair_handler = ConversationHandler(
-        entry_points=[CommandHandler("add", add_pair_command)],
-        states={
-            WAITING_FOR_PAIR_CODE: [MessageHandler(filters.TEXT & ~filters.COMMAND, receive_pair_code)]
-        },
+    pair_handler = ConversationHandler(
+        entry_points=[CommandHandler("signal", request_pair_code), CommandHandler("check", request_pair_code)],
+        states={WAITING_FOR_PAIR_CODE: [MessageHandler(filters.TEXT & ~filters.COMMAND, receive_pair_code)]},
         fallbacks=[CommandHandler("cancel", cancel)]
     )
 
-    app.add_handler(add_pair_handler)
-    app.add_handler(CommandHandler("start", start_command))
+    app.add_handler(pair_handler)
+    app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("help", help_command))
-    app.add_handler(CommandHandler("list", handle_reply_list_pair))
+    app.add_handler(CommandHandler("list", list_pairs))
 
-    my_logger.info("Bot is running..")
+    my_logger.info("Bot running...")
     app.run_polling(poll_interval=1)

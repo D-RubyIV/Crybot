@@ -5,3 +5,367 @@
 2025-01-02 01:21:49,224 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
 2025-01-02 01:21:56,194 - my_logger - INFO - ------------------ SESSION OPEN ------------------
 2025-01-02 01:21:56,195 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 10:54:46,216 - my_logger - INFO - Bot is running..
+2025-01-02 10:55:17,106 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 10:55:17,106 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 10:55:41,871 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 10:55:41,871 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:07:32,630 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:07:32,630 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:07:32,970 - my_logger - INFO - Bot is running..
+2025-01-02 11:08:00,480 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:08:00,480 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:08:00,802 - my_logger - INFO - Bot is running..
+2025-01-02 11:11:29,623 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:11:29,623 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:11:29,975 - my_logger - INFO - Bot is running..
+2025-01-02 11:12:29,116 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:12:29,116 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:12:29,466 - my_logger - INFO - Bot is running..
+2025-01-02 11:12:57,876 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:12:57,876 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:12:58,155 - my_logger - INFO - Bot is running..
+2025-01-02 11:13:43,808 - my_logger - INFO - GET SESSION FROM : pair
+2025-01-02 11:13:43,809 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:13:43,809 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:13:44,152 - my_logger - INFO - Bot is running..
+2025-01-02 11:13:53,608 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:13:53,608 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:13:53,608 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:13:53,920 - my_logger - INFO - Bot is running..
+2025-01-02 11:14:24,139 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:14:24,139 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:14:24,140 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:14:24,205 - my_logger - INFO - Sync successfully
+2025-01-02 11:14:24,461 - my_logger - INFO - Bot is running..
+2025-01-02 11:18:47,824 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:18:47,824 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:18:47,824 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:18:47,895 - my_logger - INFO - Sync successfully
+2025-01-02 11:18:48,137 - my_logger - INFO - Bot is running..
+2025-01-02 11:19:01,483 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:19:01,483 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:19:01,483 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:20:08,266 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:20:08,266 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:20:08,266 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:20:08,323 - my_logger - INFO - Sync successfully
+2025-01-02 11:20:08,522 - my_logger - INFO - Bot is running..
+2025-01-02 11:20:27,730 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:20:27,730 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:20:27,730 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:20:27,735 - my_logger - INFO - Sync successfully
+2025-01-02 11:20:27,955 - my_logger - INFO - Bot is running..
+2025-01-02 11:21:23,303 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:21:23,303 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:21:23,303 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:21:23,307 - my_logger - INFO - Sync successfully
+2025-01-02 11:21:23,307 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:21:23,307 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:21:23,307 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:21:23,314 - my_logger - INFO - Total: 1315
+2025-01-02 11:21:23,517 - my_logger - INFO - Bot is running..
+2025-01-02 11:21:27,881 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:21:27,881 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:21:27,881 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:21:27,885 - my_logger - INFO - Sync successfully
+2025-01-02 11:21:27,885 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:21:27,885 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:21:27,886 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:21:27,892 - my_logger - INFO - Total: 1315
+2025-01-02 11:21:28,102 - my_logger - INFO - Bot is running..
+2025-01-02 11:21:36,641 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:21:36,641 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:21:36,641 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:24:00,746 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:24:00,746 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:24:00,746 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:25:41,633 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:25:41,634 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:25:41,634 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:25:41,639 - my_logger - INFO - Sync successfully
+2025-01-02 11:25:41,639 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:25:41,639 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:25:41,639 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:25:41,649 - my_logger - INFO - Total: 1315
+2025-01-02 11:25:41,870 - my_logger - INFO - Bot is running..
+2025-01-02 11:25:44,756 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:25:44,756 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:25:44,756 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:26:52,455 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:26:52,455 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:26:52,456 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:26:52,459 - my_logger - INFO - Sync successfully
+2025-01-02 11:26:52,459 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:26:52,459 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:26:52,459 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:26:52,466 - my_logger - INFO - Total: 1315
+2025-01-02 11:26:52,666 - my_logger - INFO - Bot is running..
+2025-01-02 11:26:55,743 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:26:55,743 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:26:55,743 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:27:06,598 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:27:06,598 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:27:06,598 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:27:06,602 - my_logger - INFO - Sync successfully
+2025-01-02 11:27:06,602 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:27:06,602 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:27:06,602 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:27:06,610 - my_logger - INFO - Total: 1315
+2025-01-02 11:27:06,826 - my_logger - INFO - Bot is running..
+2025-01-02 11:27:10,142 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:27:10,142 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:27:10,142 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:27:20,590 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:27:20,591 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:27:20,591 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:27:20,595 - my_logger - INFO - Sync successfully
+2025-01-02 11:27:20,595 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:27:20,595 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:27:20,595 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:27:20,602 - my_logger - INFO - Total: 1315
+2025-01-02 11:27:20,814 - my_logger - INFO - Bot is running..
+2025-01-02 11:27:24,656 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:27:24,657 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:27:24,657 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:27:35,953 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:27:35,954 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:27:35,954 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:27:35,958 - my_logger - INFO - Sync successfully
+2025-01-02 11:27:35,958 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:27:35,958 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:27:35,958 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:27:35,965 - my_logger - INFO - Total: 1315
+2025-01-02 11:27:36,163 - my_logger - INFO - Bot is running..
+2025-01-02 11:27:39,813 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:27:39,813 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:27:39,813 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:28:00,075 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:28:00,076 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:28:00,076 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:28:00,080 - my_logger - INFO - Sync successfully
+2025-01-02 11:28:00,080 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:28:00,080 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:28:00,080 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:28:00,088 - my_logger - INFO - Total: 1315
+2025-01-02 11:28:00,283 - my_logger - INFO - Bot is running..
+2025-01-02 11:28:05,854 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:28:05,854 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:28:05,854 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:28:23,957 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:28:23,958 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:28:23,958 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:28:29,709 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:28:29,710 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:28:29,710 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:32:01,155 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:32:01,155 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:32:01,155 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:32:01,159 - my_logger - INFO - Sync successfully
+2025-01-02 11:32:01,159 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:32:01,159 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:32:01,159 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:32:01,166 - my_logger - INFO - Total: 1315
+2025-01-02 11:32:26,564 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:32:26,564 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:32:26,564 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:32:26,568 - my_logger - INFO - Sync successfully
+2025-01-02 11:32:26,568 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:32:26,568 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:32:26,568 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:32:26,610 - my_logger - INFO - Total: 1315
+2025-01-02 11:32:41,134 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:32:41,134 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:32:41,134 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:32:41,138 - my_logger - INFO - Sync successfully
+2025-01-02 11:32:41,138 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:32:41,138 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:32:41,138 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:32:41,145 - my_logger - INFO - Total: 1315
+2025-01-02 11:32:41,353 - my_logger - INFO - Bot is running..
+2025-01-02 11:32:59,556 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:32:59,557 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:32:59,557 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:32:59,561 - my_logger - INFO - Sync successfully
+2025-01-02 11:32:59,561 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:32:59,561 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:32:59,561 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:32:59,569 - my_logger - INFO - Total: 1315
+2025-01-02 11:32:59,784 - my_logger - INFO - Bot is running..
+2025-01-02 11:33:09,703 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:33:09,704 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:33:09,704 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:34:40,176 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:34:40,176 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:34:40,176 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:34:40,180 - my_logger - INFO - Sync successfully
+2025-01-02 11:34:40,180 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:34:40,180 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:34:40,180 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:34:40,187 - my_logger - INFO - Total: 1315
+2025-01-02 11:34:40,401 - my_logger - INFO - Bot is running..
+2025-01-02 11:35:41,423 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:35:41,423 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:35:41,424 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:35:43,803 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:35:43,803 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:35:43,803 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:36:21,749 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:36:21,749 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:36:21,749 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:36:21,753 - my_logger - INFO - Sync successfully
+2025-01-02 11:36:21,753 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:36:21,753 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:36:21,753 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:36:21,760 - my_logger - INFO - Total: 1315
+2025-01-02 11:36:21,965 - my_logger - INFO - Bot is running..
+2025-01-02 11:36:34,856 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:36:34,856 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:36:34,856 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:36:49,612 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:36:49,613 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:36:49,613 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:36:49,614 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:36:49,614 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:36:49,614 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:37:10,911 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:37:10,912 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:37:10,912 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:37:10,916 - my_logger - INFO - Sync successfully
+2025-01-02 11:37:10,916 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:37:10,916 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:37:10,916 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:37:10,923 - my_logger - INFO - Total: 1316
+2025-01-02 11:37:11,142 - my_logger - INFO - Bot is running..
+2025-01-02 11:37:31,419 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:37:31,420 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:37:31,420 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:42:48,956 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:42:48,956 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:42:48,956 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:42:48,961 - my_logger - INFO - Sync successfully
+2025-01-02 11:42:48,961 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:42:48,961 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:42:48,961 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:42:48,969 - my_logger - INFO - Total: 1316
+2025-01-02 11:42:49,176 - my_logger - INFO - Bot is running..
+2025-01-02 11:42:59,805 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:42:59,806 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:42:59,806 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:58:32,619 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:58:32,620 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:58:32,620 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:58:32,625 - my_logger - INFO - Sync successfully
+2025-01-02 11:58:32,625 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:58:32,625 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:58:32,625 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:58:32,633 - my_logger - INFO - Total: 1316
+2025-01-02 11:58:32,872 - my_logger - INFO - Bot is running..
+2025-01-02 11:58:47,663 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:58:47,663 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:58:47,663 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:58:52,855 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:58:52,856 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:58:52,856 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:59:02,223 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:59:02,224 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:59:02,224 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:59:09,252 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 11:59:09,252 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:59:09,252 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 11:59:09,254 - my_logger - INFO - GET SESSION FROM : SignalRecord
+2025-01-02 11:59:09,254 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 11:59:09,254 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:00:39,216 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:00:39,216 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:00:39,217 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:00:39,220 - my_logger - INFO - Sync successfully
+2025-01-02 12:00:39,220 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:00:39,220 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:00:39,220 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:00:39,227 - my_logger - INFO - Total: 1316
+2025-01-02 12:00:39,425 - my_logger - INFO - Bot is running..
+2025-01-02 12:01:08,223 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:01:08,223 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:01:08,224 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:02:02,864 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:02:02,864 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:02:02,864 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:03:56,952 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:03:56,953 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:03:56,953 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:03:56,958 - my_logger - INFO - Sync successfully
+2025-01-02 12:03:56,958 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:03:56,958 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:03:56,958 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:03:56,966 - my_logger - INFO - Total: 1316
+2025-01-02 12:03:57,211 - my_logger - INFO - Bot is running..
+2025-01-02 12:05:10,837 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:05:10,837 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:05:10,837 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:05:10,842 - my_logger - INFO - Sync successfully
+2025-01-02 12:05:10,842 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:05:10,842 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:05:10,842 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:05:10,850 - my_logger - INFO - Total: 1316
+2025-01-02 12:05:11,055 - my_logger - INFO - Bot is running..
+2025-01-02 12:05:28,437 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:05:28,437 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:05:28,437 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:05:43,007 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:05:43,007 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:05:43,007 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:05:43,012 - my_logger - INFO - Sync successfully
+2025-01-02 12:05:43,012 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:05:43,012 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:05:43,012 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:05:43,023 - my_logger - INFO - Total: 1316
+2025-01-02 12:05:43,266 - my_logger - INFO - Bot is running..
+2025-01-02 12:05:47,892 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:05:47,892 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:05:47,892 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:09:03,333 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:09:03,333 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:09:03,334 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:09:03,344 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:09:03,344 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:09:03,344 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:09:03,352 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:09:03,590 - my_logger - INFO - Bot running...
+2025-01-02 12:09:13,287 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:09:13,287 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:09:13,287 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:09:16,689 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:09:16,689 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:09:16,689 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:09:21,253 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:09:21,253 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:09:21,253 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:09:24,870 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:09:24,870 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:09:24,870 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:09:34,829 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:09:34,829 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:09:34,830 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:12:06,765 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:12:06,766 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:12:06,766 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:12:06,776 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:12:06,776 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:12:06,777 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:12:06,784 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:12:07,017 - my_logger - INFO - Bot running...
+2025-01-02 12:12:13,384 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:12:13,384 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:12:13,385 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:12:41,924 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:12:41,924 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:12:41,924 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:12:41,935 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:12:41,935 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:12:41,935 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
+2025-01-02 12:12:41,942 - my_logger - INFO - Synced successfully. Total: 1316
+2025-01-02 12:12:42,163 - my_logger - INFO - Bot running...
+2025-01-02 12:12:49,566 - my_logger - INFO - GET SESSION FROM : PairRecord
+2025-01-02 12:12:49,566 - my_logger - INFO - ------------------ SESSION OPEN ------------------
+2025-01-02 12:12:49,566 - my_logger - INFO - ------------------ SESSION CLOSED ------------------
